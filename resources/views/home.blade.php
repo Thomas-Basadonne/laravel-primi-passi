@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>Primi passi con Laravel</h1>
+    <p>
+        <a href="/students">
+            Accedi alla lista
+        </a>
+    </p>
 </body>
 </html>
